@@ -2,4 +2,5 @@
 'context-menu':
   '.overlayer':
     'Copy': 'core:copy'
+    'Cut': 'core:cut'
     'Paste': 'core:paste'
