@@ -1,7 +1,7 @@
 {
   "name": "copy-paste-context",
   "main": "./lib/copy-paste-context",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Adds copy, cut, and paste to the context menu",
   "repository": "https://github.com/shieldal/copy-paste-context",
   "license": "MIT",
